@@ -1,0 +1,60 @@
+html,
+body,
+#app {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.el-button {
+    margin-bottom: 10px;
+}
+
+.tree-table {
+    margin-top: 15px;
+}
+
+.treeTable {
+    margin-top: 15px;
+}
+
+
+/* .el-cascader {
+    width: 100%;
+} */
+
+
+/* 解决级联选择器满屏的情况 */
+
+.el-cascader-menu {
+    height: 204px;
+}
+
+.el-table {
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+.el-card {
+    margin: 15px;
+}
+
+.el_alert {
+    margin: 10px 0;
+}
+
+.el-steps {
+    margin: 15px 0;
+}
+
+.el-step_title {
+    font-size: 13px;
+}
+
+.ql-editor {
+    min-height: 300px
+}
+
+.add {
+    margin: 15px 0;
+}
